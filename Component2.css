@@ -1,0 +1,15 @@
+h1.component2 {
+    color: red;
+}
+
+.components-container {
+    display: flex;
+    gap: 20px; 
+    justify-content: center; 
+    padding: 20px;
+  }
+  
+  .component-1, .component-2 {
+    flex: 1; 
+    padding: 10px;
+  }
